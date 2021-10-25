@@ -1,0 +1,16 @@
+PODS:
+  - bbbFramework (0.1.0)
+
+DEPENDENCIES:
+  - bbbFramework (from `../`)
+
+EXTERNAL SOURCES:
+  bbbFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  bbbFramework: 379ef5426e91345f91c3fbd02eb1650ba28f6b24
+
+PODFILE CHECKSUM: 8e1807cd2272f5cfd29d569eb7044a61bba660ea
+
+COCOAPODS: 1.10.2

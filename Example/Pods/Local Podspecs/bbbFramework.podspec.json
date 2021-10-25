@@ -1,0 +1,22 @@
+{
+  "name": "bbbFramework",
+  "version": "0.1.0",
+  "summary": "A short description of bbbFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1466385352@qq.com/bbbFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1466385352@qq.com": "123456"
+  },
+  "source": {
+    "git": "https://github.com/1466385352@qq.com/bbbFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "bbbFramework/Classes/**/*"
+}
